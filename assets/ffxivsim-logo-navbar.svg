@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="140mm"
+   height="100mm"
+   viewBox="0 0 140 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="ffxivsim-logo-navbar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4702524"
+     inkscape:cx="320.69324"
+     inkscape:cy="131.26998"
+     inkscape:window-width="1699"
+     inkscape:window-height="1186"
+     inkscape:window-x="343"
+     inkscape:window-y="1214"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="construct_grid"
+       id="path-effect26"
+       is_visible="true"
+       lpeversion="1"
+       nr_x="2"
+       nr_y="1" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect25"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,14.022917,0,1 @ F,0,0,1,0,14.022917,0,1 @ F,0,0,1,0,14.022917,0,1 @ F,0,0,1,0,14.022917,0,1"
+       radius="53"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <filter
+       id="selectable_hidder_filter"
+       width="1"
+       height="1"
+       x="0"
+       y="0"
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="LPE boolean visibility">
+      <feComposite
+         id="boolops_hidder_primitive"
+         result="composite1"
+         operator="arithmetic"
+         in2="SourceGraphic"
+         in="BackgroundImage"
+         k1="0"
+         k2="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <inkscape:path-effect
+       effect="bool_op"
+       operand-path=""
+       id="path-effect24"
+       is_visible="true"
+       lpeversion="1"
+       operation="union"
+       swap-operands="false"
+       filltype-this="from-curve"
+       filter=""
+       filltype-operand="from-curve" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-86.670091 : -7.4085044 : 1"
+       inkscape:vp_y="0 : 962.70029 : 0"
+       inkscape:vp_z="175.07638 : -7.4085044 : 1"
+       inkscape:persp3d-origin="44.203145 : -23.453509 : 1"
+       id="perspective4" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0"
+       d="M 0.22933978,28 A 69.99993,57.142687 0 0 0 0,30.857256 69.99993,57.142687 0 0 0 69.999999,88 69.99993,57.142687 0 0 0 140,30.857256 69.99993,57.142687 0 0 0 139.77066,28 69.99993,57.142687 0 0 1 69.999999,82.285487 69.99993,57.142687 0 0 1 0.22933978,28 Z"
+       inkscape:label="Crescent-Shadow" />
+    <path
+       id="path1-2"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+       d="M 0.22934,25 A 69.99993,57.142687 0 0 0 0,27.857256 69.99993,57.142687 0 0 0 69.999999,85 69.99993,57.142687 0 0 0 140,27.857256 69.99993,57.142687 0 0 0 139.77066,25 69.99993,57.142687 0 0 1 69.999999,79.285487 69.99993,57.142687 0 0 1 0.22934,25 Z"
+       inkscape:label="Crescent" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.4667px;font-family:Onyx;-inkscape-font-specification:Onyx;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:none;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       x="8.5428238"
+       y="57.637695"
+       id="text3-1"
+       transform="scale(1.1084188,0.90218607)"
+       inkscape:label="Main-Text-Shadow"><tspan
+         sodipodi:role="line"
+         id="tspan3-7"
+         style="letter-spacing:0px;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+         x="8.5428238"
+         y="57.637695">FFXIV</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.4667px;font-family:Onyx;-inkscape-font-specification:Onyx;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="8.5428314"
+       y="57.637791"
+       id="text3-1-1"
+       transform="scale(1.1084178,0.90218687)"
+       inkscape:label="Main-Text"><tspan
+         sodipodi:role="line"
+         id="tspan3-7-1"
+         style="letter-spacing:0px;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="8.5428314"
+         y="57.637791">FFXIV</tspan></text>
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g4"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0"
+       inkscape:perspectiveID="#perspective4"
+       inkscape:corner0="0.51001613 : 0.068312229 : 0 : 1"
+       inkscape:corner7="-0.3839402 : 0.030210952 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path9"
+         style="fill:#06fd00;fill-opacity:0.5;fill-rule:evenodd;stroke:#000000;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:box3dsidetype="11"
+         d="M 24.868577,79.159219 140,49.999999 V 92.352861 L 24.868577,100 Z"
+         points="140,49.999999 140,92.352861 24.868577,100 24.868577,79.159219 "
+         inkscape:label="path9" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path4"
+         style="fill:#0600fd;fill-opacity:0.5;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="M 3.9829519e-7,74.482235 V 98.773439 L 24.868577,100 V 79.159219 Z"
+         points="3.9829519e-07,98.773439 24.868577,100 24.868577,79.159219 3.9829519e-07,74.482235 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path8"
+         style="fill:#ff0202;fill-opacity:0.5;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="M 3.9829519e-7,98.773439 125.76584,86.243209 140,92.352861 24.868577,100 Z"
+         points="125.76584,86.243209 140,92.352861 24.868577,100 3.9829519e-07,98.773439 " />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.7567px;font-family:Rockwell;-inkscape-font-specification:Rockwell;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0"
+       x="47.959526"
+       y="77.685204"
+       id="text4"
+       transform="scale(0.91808329,1.0892258)"
+       inkscape:label="SIM"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rockwell;-inkscape-font-specification:Rockwell;fill:#ffffff;fill-opacity:1;stroke-width:0"
+         x="47.959526"
+         y="77.685204">SIM</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+:root {
+    --space-indigo: #1E1B39;
+    --space-indigo-sat: #392C99;
+    --space-indigo-light: #786AE0;
+}
+* {
+    font-family: "Noto Sans", sans-serif;
+}
+a.navbar-brand {
+    padding: 0;
+}
+body {
+    background-color: var(--space-indigo-sat);
+    color: white;
+}
+img.navbar-icon {
+    color: black;
+    height: 3rem;
+    transition: filter 0.2s ease;
+}
+img.navbar-icon:hover {
+    filter: drop-shadow(0 0 1rem rgba(158, 131, 255, 0.76));
+}
+a.nav-link {
+    color: white;
+    font-size: 1.5rem;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+ul.navbar-nav {
+    margin-bottom: 0;
+}
+.navbar {
+    min-height: 4rem;
+    background-color: var(--space-indigo);
+    --bs-navbar-hover-color: var(--space-indigo-light);
+}
+.navbar-toggler {
+    border-color: #FFFFFF;
+}
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
